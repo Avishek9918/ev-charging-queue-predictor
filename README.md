@@ -1,8 +1,8 @@
-#🚗 EV Infrastructure Stress Analysis & Load Forecasting
+# 🚗 EV Infrastructure Stress Analysis & Load Forecasting
 
 This project analyzes and predicts electric vehicle (EV) charging station demand, congestion, and infrastructure stress using historical charging session data. It combines time-based analytics, a custom stress index, and machine learning to support smart charging, reduce waiting times, and assist power system and infrastructure planning.
 
-#📌 Objectives
+# 📌 Objectives
 
 Analyze temporal patterns in EV charging demand
 
@@ -14,7 +14,7 @@ Predict queue lengths using machine learning
 
 Provide insights for capacity planning and grid impact analysis
 
-📊 Dataset
+# 📊 Dataset
 
 The dataset contains historical EV charging session records with the following attributes:
 
@@ -28,7 +28,7 @@ Queue length at arrival
 
 The data is used to extract time-based features (hour, weekday/weekend, time blocks) and operational metrics.
 
-⚙️ Methodology
+# ⚙️ Methodology
 
 Preprocessing & Feature Engineering
 
@@ -58,7 +58,7 @@ Evaluated performance using MAE and prediction error analysis
 
 Analyzed feature importance and time-based predicted congestion
 
-📈 Key Outputs
+# 📈 Key Outputs
 
 Peak demand and congestion periods
 
@@ -68,11 +68,13 @@ Queue length prediction model and performance metrics
 
 Visual insights into demand patterns and infrastructure load
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 Python
 
-Pandas, NumPy
+Pandas
+
+Numpy
 
 Matplotlib
 
@@ -80,7 +82,7 @@ Scikit-learn
 
 Jupyter Notebook
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 
 Integrate real-time data streams
 
@@ -90,7 +92,7 @@ Include external factors like traffic, weather, and pricing
 
 Deploy as a dashboard or web app
 
-📎 Use Cases
+# 📎 Use Cases
 
 EV charging network planning
 
@@ -100,6 +102,6 @@ Power grid load forecasting
 
 Policy and investment decision support
 
-👤 Author
+#Author
 
-Abhishek Rajora
+Abhishek
