@@ -1,8 +1,8 @@
-🚗 EV Infrastructure Stress Analysis & Load Forecasting
+#🚗 EV Infrastructure Stress Analysis & Load Forecasting
 
 This project analyzes and predicts electric vehicle (EV) charging station demand, congestion, and infrastructure stress using historical charging session data. It combines time-based analytics, a custom stress index, and machine learning to support smart charging, reduce waiting times, and assist power system and infrastructure planning.
 
-📌 Objectives
+#📌 Objectives
 
 Analyze temporal patterns in EV charging demand
 
